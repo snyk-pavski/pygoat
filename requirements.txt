@@ -1,3 +1,5 @@
+boto3==1.38.42
+requests==2.32.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.6.0
